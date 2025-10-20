@@ -10,7 +10,7 @@ import com.oiis.services.sso.controllers.rest.auth.PasswordChangeRequestDTO;
 import com.oiis.services.sso.database.entities.sso.RecordStatus;
 import com.oiis.services.sso.database.entities.sso.User;
 import com.oiis.services.sso.database.repositories.sso.UsersRepository;
-import com.oiis.services.sso.helpers.DefaultDataSwap;
+import com.oiis.libs.java.spring.commons.DefaultDataSwap;
 import com.oiis.services.sso.services.jwt.JwtService;
 import com.oiis.services.sso.services.mail.MailService;
 import org.slf4j.Logger;
