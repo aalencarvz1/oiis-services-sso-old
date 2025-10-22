@@ -1,3 +1,35 @@
+<div align="center">
+
+# 🟨⚠️ <span style="font-size:2.2em;">**DEPRECATED PROJECT**</span> ⚠️🟨
+
+---
+
+### 🚧 This repository is no longer maintained.
+
+Please use the new active repository instead:  
+👉 [**sso-starter**](https://github.com/aalencarvz1/sso-starter)
+
+---
+
+![status: deprecated](https://img.shields.io/badge/status-deprecated-red?style=for-the-badge)
+![maintenance: no](https://img.shields.io/badge/maintenance-no-lightgrey?style=for-the-badge)
+
+</div>
+
+---
+
+## 📝 About
+
+This project has been **deprecated** and will not receive further updates or support.  
+All future development and maintenance have been moved to the repository linked above.
+
+If you are using this code in production, please migrate as soon as possible.
+
+The new approach seeks to make the project's SSO functionalities part of the user's project, being injected as a starter. 
+
+---
+
+
 # SSO Service
 
 A lightweight, Spring Boot–based authentication and token validation microservice designed for modular integration across multiple backend or frontend applications.
