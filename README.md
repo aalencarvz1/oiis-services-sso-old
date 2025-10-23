@@ -59,13 +59,13 @@ The service is designed to be secure, with password hashing via BCrypt, and supp
 ### 1. Clone the Repository
 
 ```bash
-  git clone https://github.com/aalencarvz1/oiis-services-sso.git
+  git clone https://github.com/aalencarvz1/oiis-services-sso-old.git
 ```
 
 ### Open project folder on your java IDE or:
 
 ```bash
-  cd oiis-services-sso
+  cd oiis-services-sso-old
 ```
 
 ### 2. Build the Project
